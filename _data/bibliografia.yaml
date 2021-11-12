@@ -23,6 +23,121 @@ references:
   title-short: Universo urbanístico português 1415-1822
   type: book
 
+- id: castela:2017empire
+  author:
+    - family: Castela
+      given: Tiago
+  container-title: Whose Tradition? Discourses on the Built Environment
+  editor:
+    - family: AlSayyad
+      given: Nezar
+    - family: Gillem
+      given: Mark
+    - family: Moffat
+      given: David
+  event-place: 'London : New York'
+  ISBN: 978-1-138-19207-2
+  issued:
+    - year: 2017
+      month: 6
+      day: 21
+  language: English
+  page: 188–209
+  publisher: Routledge
+  publisher-place: 'London : New York'
+  source: Amazon
+  title: >-
+    Empire in the city: politicizing urban memorials of colonialism in Portugal
+    and Mozambique
+  type: chapter
+
+- id: castela:2018espaco-tempo
+  abstract: >-
+    Em tempos de uma suposta crise de refugiados, é urgente uma genealogia das
+    actuais concepções de refúgio na Europa, examinando como articulam uma
+    racionalidade colonial, elidindo os persistentes circuitos desiguais de
+    trabalho e subjectividade entre estados europeus e territórios
+    historicamente ocupados. O artigo defende que os estudos do ambiente
+    construído podem contribuir para este projecto devido à sua atenção às
+    dimensões do espaço-tempo social de refúgio, relacionando política,
+    desigualdade, e fantasia. Recorda o aldeamento colonial europeu de meados do
+    século passado enquanto espaço de deslocamento forçado que ensaia a relação
+    do estado com o sujeito refugiado, concentrando-se numa revisão da
+    literatura existente sobre o programa de aldeamento colonial português em
+    Moçambique.
+  accessed:
+    - year: 2021
+      month: 11
+      day: 12
+  author:
+    - family: Castela
+      given: Tiago
+  container-title: Biblos
+  container-title-short: Biblos
+  DOI: 10.14195/0870-4112_3-4_1
+  ISSN: 2183-7139, 0870-4112
+  issue: '4'
+  issued:
+    - year: 2018
+      month: 12
+      day: 27
+  language: Portuguese
+  page: 13-30
+  source: DOI.org (Crossref)
+  title: >-
+    O espaço-tempo do refúgio forçado: os aldeamentos coloniais na formação do
+    estado?
+  title-short: O espaço-tempo do refúgio forçado
+  type: article-journal
+  URL: https://impactum-journals.uc.pt/biblos/article/view/4_1
+
+- id: choay:1980regle
+  author:
+    - family: Choay
+      given: Françoise
+  event-place: Paris
+  issued:
+    - year: 1980
+  publisher: Seuil
+  publisher-place: Paris
+  title: 'La règle et le modèle : sur la théorie de l’architecture et de l’urbanisme'
+  type: book
+
+- id: choay:1992urbanismo
+  author:
+    - family: Choay
+      given: Françoise
+  edition: 3.ª ed.
+  event-place: São Paulo
+  ISBN: 978-85-273-0163-3
+  issued:
+    - year: 1992
+  language: Portuguese
+  publisher: Perspectiva
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: 'O urbanismo: utopias e realidades, uma antologia'
+  title-short: O urbanismo
+  type: book
+
+- id: coelho:2014tempo
+  collection-number: '2'
+  collection-title: 'Cadernos MUrb morfologia urbana: estudos da cidade portuguesa'
+  editor:
+    - family: Coelho
+      given: Carlos Dias
+  event-place: Lisboa
+  ISBN: 978-972-8479-79-4
+  issued:
+    - year: 2014
+  language: Portuguese
+  publisher: Argumentum
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: O Tempo e a Forma
+  title-short: Cadernos MUrb morfologia urbana
+  type: book
+
 - id: delson:1998novas
   author:
     - family: Delson
@@ -105,6 +220,23 @@ references:
   title-short: Urbanismo de colina
   type: book
   URL: http://public.eblib.com/choice/publicfullrecord.aspx?p=4931855
+
+- id: malta:2013casas
+  editor:
+    - family: Malta
+      given: Marize
+    - family: Mendoça
+      given: Isabel Mayor Godinho
+  event-place: Rio de Janeiro
+  ISBN: 978-85-87145-58-1
+  issued:
+    - year: 2013
+  language: Portuguese
+  publisher: Editora UFRJ
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: Casas senhoriais Rio-Lisboa e seus interiores
+  type: book
 
 - id: teixeira:2012forma
   author:

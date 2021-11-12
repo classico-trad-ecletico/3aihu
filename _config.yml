@@ -14,8 +14,8 @@ theme                    : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "es-ES"
-title                    : "La ciudad portuguesa en la edad liberal"
+locale                   : "pt-PT"
+title                    : "A cidade luso-brasileira na era liberal"
 title_separator          : "-"
 subtitle                 : "3.ª Conferencia de la Asociación Iberoamericana de Historia Urbana"
 name                     : "Rui Florentino y Pedro P. Palazzo"

@@ -1,6 +1,8 @@
 ---
 title: "Resumen"
 layout: single
+author_profile: false
+read_time: false
 ---
 
 Las tradiciones urbanas pueden ser un concepto clásico principal en la
@@ -9,19 +11,18 @@ Françoise Choay de los enfoques progresistas y culturales de las teorías
 urbanas (1965). Después de medio siglo, ciertamente podemos entender
 tanto las utopías o realidades francesas como las británicas, y también
 muchos otros modelos diferentes de tradiciones urbanas en todo el mundo.
-Las perspectivas posmodernas aumentaron estos estudios, por ejemplo con
-los libros de Leon Krier, y los aplicaron a varias renovaciones urbanas,
-como Plessis Robinson cerca de París o Dorchester en el Reino Unido.
 
 En el contexto portugués, estos análisis clásicos fueron presentados por
-los profesores José Manuel Fernandes (1987), Manuel Costa Lobo (2013) y
-Manuel Teixeira (2015), entre otros. Una perspectiva comparada estuvo
-especialmente relacionada con el diseño ortogonal de muchas ciudades
-españolas en el siglo XIX (los Ensanches ), en su propia tradición de
-asentamientos romanos, promovida con las “Leyes Indígenas” para los
-nuevos pueblos americanos en la Era de los descubrimientos de Colombo.
-Las ciudades tradicionales portuguesas son, por el contrario, formas
-urbanas irregulares, levantadas sobre el paisaje.
+los profesores José Manuel Fernandes [@fernandes:2005arquitectura],
+Manuel Costa Lobo [@lobo:2012urbanismo] y Manuel Teixeira
+[@teixeira:2012forma], entre otros. Estos estudiosos refutaron a la
+oposición convencional entre el diseño ortogonal hispano y la
+irregularidad no planificada del urbanismo de tradición portuguesa
+[@holanda:1995raizes].
+
+Sin embargo, el concepto de una « tradición luso-brasileña » se ha
+circunscrito al estrecho universo del imperio colonial portugués, que se
+separa de Brasil hacia 1822 [@araujo:1998universo].
 
 Esta cultura urbana aparece también en ciudades sudamericanas,
 importantes como Río de Janeiro o pueblos pequeños como Olinda en

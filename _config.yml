@@ -15,10 +15,10 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "es-ES"
-title                    : "La ciudad portuguesa en un mundo global"
+title                    : "La ciudad portuguesa en la edad liberal"
 title_separator          : "-"
-subtitle                 : "3. Conferencia de la Asociación Iberoamericana de Historia Urbana"
-name                     : "Rui Florentino e Pedro P. Palazzo"
+subtitle                 : "3.ª Conferencia de la Asociación Iberoamericana de Historia Urbana"
+name                     : "Rui Florentino y Pedro P. Palazzo"
 description              : "Propuesta de sesión temática"
 url                      : "https://dmcpatrimonio.github.io"
 baseurl                  : "/3aihu"

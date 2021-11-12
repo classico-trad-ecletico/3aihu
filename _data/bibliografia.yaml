@@ -47,6 +47,42 @@ references:
       given: Fernando de Vasconcelos
   type: book
 
+- id: fernandes:2005arquitectura
+  author:
+    - family: Fernandes
+      given: José Manuel
+  call-number: NA1580 .F47 2005
+  collection-title: Colecção Pensar arquitectura
+  event-place: Casal de Cambra
+  ISBN: 978-972-8801-65-6
+  issued:
+    - year: 2005
+  language: Portuguese
+  number-of-pages: '116'
+  publisher: Caleidoscópio
+  publisher-place: Casal de Cambra
+  source: Library of Congress ISBN
+  title: Arquitectura e urbanismo na África portuguesa
+  type: book
+
+- id: holanda:1995raizes
+  author:
+    - family: Holanda
+      given: Sérgio Buarque
+      dropping-particle: de
+  call-number: 94(81)
+  edition: '26'
+  event-place: São Paulo
+  ISBN: 85-7164-448-9 978-85-7164-448-9
+  issued:
+    - year: 1995
+  language: Portuguese
+  publisher: Companhia das Letras
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Raízes do Brasil
+  type: book
+
 - id: lobo:2012urbanismo
   accessed:
     - year: 2018

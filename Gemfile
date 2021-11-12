@@ -13,7 +13,6 @@ group :jekyll_plugins do
   gem "jekyll-data"
   gem "jekyll-pandoc"
   gem "jekyll-relative-links"
-  gem "jekyll-scholar"
   gem "jekyll-seo-tag"
   # Sassc is preferred to the legacy ruby-sass
   gem "sassc"

@@ -1,2 +1,107 @@
 ---
----
+references:
+- id: araujo:1998universo
+  archive_location: 711 (469) "14/18"
+  call-number: HT384.P8 U54 1998
+  edition: '1'
+  editor:
+    - family: Araujo
+      given: Renata Malcher
+      dropping-particle: de
+    - family: Carita
+      given: Helder
+  event-place: Lisboa
+  ISBN: 978-972-8325-70-1
+  issued:
+    - year: 1998
+  language: Portuguese
+  number-of-pages: '569'
+  publisher: Commissão Nacional para as Comemorações dos Descobrimentos Portugueses
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: 'Universo urbanístico português 1415-1822: colectânea de estudos'
+  title-short: Universo urbanístico português 1415-1822
+  type: book
+
+- id: delson:1998novas
+  author:
+    - family: Delson
+      given: Roberta Marx
+  collection-title: >-
+    [New towns for Colonial Brazil : spatial and social planning of the 18th
+    century]
+  event-place: Brasília
+  ISBN: 978-85-86774-02-7
+  issued:
+    - year: 1998
+  language: Portuguese
+  publisher: 'Alva : Ciord'
+  publisher-place: Brasília
+  source: Open WorldCat
+  title: >-
+    Novas vilas para o Brasil-Colônia: planejamento espacial e social no século
+    XVIII
+  title-short: Novas vilas para o Brasil-Colônia
+  translator:
+    - family: Pinto
+      given: Fernando de Vasconcelos
+  type: book
+
+- id: lobo:2012urbanismo
+  accessed:
+    - year: 2018
+      month: 11
+      day: 3
+  editor:
+    - family: Lobo
+      given: Manuel Leal da Costa
+    - family: Simões Júnior
+      given: José Geraldo
+  event-place: São Paulo
+  ISBN: 978-85-8293-053-3
+  issued:
+    - year: 2012
+  language: Portuguese
+  publisher: 'SciELO : Editora Mackenzie'
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Urbanismo de colina. Uma tradição luso-brasileira
+  title-short: Urbanismo de colina
+  type: book
+  URL: http://public.eblib.com/choice/publicfullrecord.aspx?p=4931855
+
+- id: teixeira:2012forma
+  author:
+    - family: Teixeira
+      given: Manuel C
+  event-place: São Paulo
+  ISBN: 978-85-393-0175-1 978-85-401-0033-6
+  issued:
+    - year: 2012
+  language: Portuguese
+  publisher: 'Unesp : Imprensa Oficial do Estado'
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: A forma da cidade de origem portuguesa
+  type: book
+
+- id: trindade:2013urbanismo
+  accessed:
+    - year: 2018
+      month: 11
+      day: 3
+  author:
+    - family: Trindade
+      given: Luísa
+  call-number: 711.4(469)(043.2)
+  DOI: 10.14195/978-989-26-0772-6
+  ISBN: 978-989-26-0772-6
+  issued:
+    - year: 2013
+  language: Portuguese
+  publisher: Imprensa da Universidade de Coimbra
+  source: Crossref
+  title: Urbanismo na composição de Portugal
+  type: book
+  URL: https://digitalis.uc.pt/handle/10316.2/29700
+...

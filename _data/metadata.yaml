@@ -1,0 +1,5 @@
+bibliography: "_bibliografia.yaml"
+csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography-with-ibid.csl"
+lang: es-ES
+crossrefYaml: "_crossref.yaml"
+suppress-bibliography: false

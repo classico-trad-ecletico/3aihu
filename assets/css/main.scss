@@ -64,18 +64,28 @@
   font-style: normal;
 }
 
-$paragraph-indent: true;
 $sans-serif: 'UnB Pro', -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $serif: $sans-serif;
+$header-font-weight: 300;
+$header-font-style: normal;
+$meta-font-weight: 400;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.site-title,
+@import "pandoc",
+        "pandoc-solarized",
+        "tufte",
+        "tufte-extra",
+        "local";
+
+a.site-title,
 .post-title,
 h1 {
-  font-weight: 300;
-  .site-subtitle {
+  font-variant: normal;
+  span.site-subtitle {
+    font-size: $type-size-6;
+    font-style: normal;
     font-weight: bold;
   }
 }
@@ -105,4 +115,10 @@ ol.refs {
 span.keywords-title {
 	font-weight: bold;
 }
-// vim: set shiftwidth=2 tabstop=2 :
+
+span.citation em,
+div.csl-entry em {
+  font-style: normal;
+  font-weight: bold;
+}
+// vim: set foldmethod=indent shiftwidth=2 tabstop=2 :

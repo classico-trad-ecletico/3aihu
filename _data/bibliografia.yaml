@@ -3,6 +3,7 @@ references:
 - id: araujo:1998universo
   archive_location: 711 (469) "14/18"
   call-number: HT384.P8 U54 1998
+  citation-key: araujo:1998universo
   edition: '1'
   editor:
     - family: Araujo
@@ -14,7 +15,7 @@ references:
   ISBN: 978-972-8325-70-1
   issued:
     - year: 1998
-  language: Portuguese
+  language: pt-PT
   number-of-pages: '569'
   publisher: Commissão Nacional para as Comemorações dos Descobrimentos Portugueses
   publisher-place: Lisboa
@@ -23,10 +24,29 @@ references:
   title-short: Universo urbanístico português 1415-1822
   type: book
 
+- id: baganha:2016arquitetura
+  author:
+    - family: Baganha
+      given: José
+  call-number: NA1329.A43 B33 2016
+  citation-key: baganha:2016arquitetura
+  event-place: Lisboa
+  ISBN: 978-972-44-1887-2
+  issued:
+    - year: 2016
+  language: pt-PT
+  number-of-pages: '231'
+  publisher: Edições 70
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: A arquitetura popular dos povoados do Alentejo
+  type: book
+
 - id: castela:2017empire
   author:
     - family: Castela
       given: Tiago
+  citation-key: castela:2017empire
   container-title: Whose Tradition? Discourses on the Built Environment
   editor:
     - family: AlSayyad
@@ -41,7 +61,7 @@ references:
     - year: 2017
       month: 6
       day: 21
-  language: English
+  language: en-US
   page: 188–209
   publisher: Routledge
   publisher-place: 'London : New York'
@@ -72,6 +92,7 @@ references:
   author:
     - family: Castela
       given: Tiago
+  citation-key: castela:2018espaco-tempo
   container-title: Biblos
   container-title-short: Biblos
   DOI: 10.14195/0870-4112_3-4_1
@@ -95,6 +116,7 @@ references:
   author:
     - family: Choay
       given: Françoise
+  citation-key: choay:1980regle
   event-place: Paris
   issued:
     - year: 1980
@@ -107,12 +129,13 @@ references:
   author:
     - family: Choay
       given: Françoise
+  citation-key: choay:1992urbanismo
   edition: 3.ª ed.
   event-place: São Paulo
   ISBN: 978-85-273-0163-3
   issued:
     - year: 1992
-  language: Portuguese
+  language: pt-BR
   publisher: Perspectiva
   publisher-place: São Paulo
   source: Open WorldCat
@@ -121,6 +144,7 @@ references:
   type: book
 
 - id: coelho:2014tempo
+  citation-key: coelho:2014tempo
   collection-number: '2'
   collection-title: 'Cadernos MUrb morfologia urbana: estudos da cidade portuguesa'
   editor:
@@ -130,7 +154,7 @@ references:
   ISBN: 978-972-8479-79-4
   issued:
     - year: 2014
-  language: Portuguese
+  language: pt-PT
   publisher: Argumentum
   publisher-place: Lisboa
   source: Open WorldCat
@@ -142,6 +166,7 @@ references:
   author:
     - family: Delson
       given: Roberta Marx
+  citation-key: delson:1998novas
   collection-title: >-
     [New towns for Colonial Brazil : spatial and social planning of the 18th
     century]
@@ -149,7 +174,7 @@ references:
   ISBN: 978-85-86774-02-7
   issued:
     - year: 1998
-  language: Portuguese
+  language: pt-BR
   publisher: 'Alva : Ciord'
   publisher-place: Brasília
   source: Open WorldCat
@@ -167,12 +192,13 @@ references:
     - family: Fernandes
       given: José Manuel
   call-number: NA1580 .F47 2005
+  citation-key: fernandes:2005arquitectura
   collection-title: Colecção Pensar arquitectura
   event-place: Casal de Cambra
   ISBN: 978-972-8801-65-6
   issued:
     - year: 2005
-  language: Portuguese
+  language: pt-PT
   number-of-pages: '116'
   publisher: Caleidoscópio
   publisher-place: Casal de Cambra
@@ -186,6 +212,7 @@ references:
       given: Sérgio Buarque
       dropping-particle: de
   call-number: 94(81)
+  citation-key: holanda:1995raizes
   edition: '26'
   event-place: São Paulo
   ISBN: 85-7164-448-9 978-85-7164-448-9
@@ -203,6 +230,7 @@ references:
     - year: 2018
       month: 11
       day: 3
+  citation-key: lobo:2012urbanismo
   editor:
     - family: Lobo
       given: Manuel Leal da Costa
@@ -212,7 +240,7 @@ references:
   ISBN: 978-85-8293-053-3
   issued:
     - year: 2012
-  language: Portuguese
+  language: pt-BR
   publisher: 'SciELO : Editora Mackenzie'
   publisher-place: São Paulo
   source: Open WorldCat
@@ -222,6 +250,7 @@ references:
   URL: http://public.eblib.com/choice/publicfullrecord.aspx?p=4931855
 
 - id: malta:2013casas
+  citation-key: malta:2013casas
   editor:
     - family: Malta
       given: Marize
@@ -231,7 +260,7 @@ references:
   ISBN: 978-85-87145-58-1
   issued:
     - year: 2013
-  language: Portuguese
+  language: pt-BR
   publisher: Editora UFRJ
   publisher-place: Rio de Janeiro
   source: Open WorldCat
@@ -241,12 +270,13 @@ references:
 - id: teixeira:2012forma
   author:
     - family: Teixeira
-      given: Manuel C
+      given: Manuel C.
+  citation-key: teixeira:2012forma
   event-place: São Paulo
   ISBN: 978-85-393-0175-1 978-85-401-0033-6
   issued:
     - year: 2012
-  language: Portuguese
+  language: pt-BR
   publisher: 'Unesp : Imprensa Oficial do Estado'
   publisher-place: São Paulo
   source: Open WorldCat
@@ -262,11 +292,12 @@ references:
     - family: Trindade
       given: Luísa
   call-number: 711.4(469)(043.2)
+  citation-key: trindade:2013urbanismo
   DOI: 10.14195/978-989-26-0772-6
   ISBN: 978-989-26-0772-6
   issued:
     - year: 2013
-  language: Portuguese
+  language: pt-PT
   publisher: Imprensa da Universidade de Coimbra
   source: Crossref
   title: Urbanismo na composição de Portugal

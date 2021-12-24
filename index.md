@@ -1,6 +1,9 @@
 ---
 title: "Saberes e práticas luso-brasileiras à margem do império (1750–1930)"
 subtitle: "Proposta"
+bibliography: "_data/bibliografia.yaml"
+csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography-with-ibid.csl"
+suppress-bibliography: true
 layout: single
 author: Rui Florentino e Pedro P. Palazzo
 author_profile: false

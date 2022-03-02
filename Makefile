@@ -27,7 +27,7 @@ PANDOC/CROSSREF := \
 	-u "`id -u`:`id -g`" pandoc/crossref:$(PANDOC-VERSION)
 PANDOC/LATEX := \
 	docker run --rm -v "`pwd`:/data" \
-	-u "`id -u`:`id -g`" pandoc/latex:$(PANDOC-VERSION)
+	-u "`id -u`:`id -g`" palazzo/pandoc-ebgaramond:$(PANDOC-VERSION)
 
 REVEAL  = mixins.scss theme.scss \
 					assets/css/revealjs-main.scss
@@ -43,8 +43,8 @@ _site : assets/css/main.scss _spec/html.yaml
 serve : 
 	@$(JEKYLL/PANDOC) jekyll serve --future
 
-%.pdf : %.md references.bib latex.yaml
-	$(PANDOC/LATEX) -d _spec/latex -o $@ $<
+%.pdf : %.md latex.yaml
+	$(PANDOC/LATEX) -d latex -o $@ $<
 	@echo "$< > $@"
 
 %.docx : %.md $(DEFAULTS) docx.yaml reference.docx references.bib

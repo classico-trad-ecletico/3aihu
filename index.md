@@ -1,6 +1,9 @@
 ---
 title: "Saberes e práticas luso-brasileiras à margem do império (1750–1930)"
 subtitle: "Proposta"
+bibliography: "_data/bibliografia.yaml"
+csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography-with-ibid.csl"
+suppress-bibliography: true
 layout: single
 author: Rui Florentino e Pedro P. Palazzo
 author_profile: false
@@ -8,7 +11,7 @@ read_time: false
 ---
 
 As tradições urbanas podem ser um conceito clássico principal na
-pesquisa de planejamento, levantado com a famosa revisão de Françoise
+pesquisa de planeamento, levantado com a famosa revisão de Françoise
 Choay das abordagens progressivas e culturais das teorias urbanas
 [@choay:1992urbanismo]. Depois de meio século, certamente podemos
 entender as utopias ou realidades francesas e britânicas, e também

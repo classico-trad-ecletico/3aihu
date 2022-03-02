@@ -1,14 +1,29 @@
 ---
 title: "Saberes e práticas luso-brasileiras à margem do império (1750–1930)"
-subtitle: "Proposta"
+subtitle: |
+  3.º Congresso Iberoamericano de História Urbana  
+  Mesa temática n.º 74
+date: 'Coordenadores:'
 bibliography: "_data/bibliografia.yaml"
 csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography-with-ibid.csl"
 suppress-bibliography: true
-layout: single
-author: Rui Florentino e Pedro P. Palazzo
-author_profile: false
-read_time: false
+classoption:
+- oneside
+author: 
+  - Rui Florentino:
+      correspondence: "yes"
+      email: ruiflorentino@upt.pt
+      institute: [upt]
+  - Pedro P. Palazzo:
+      correspondence: "yes"
+      email: palazzo@unb.br
+      institute: [unb]
+institute:
+  - upt: Professor e investigador da Universidade Portucalense, Departamento de Arquitetura e Multimédia
+  - unb: Professor Associado, Universidade de Brasília, Faculdade de Arquitetura e Urbanismo.
 ---
+
+# Resumo #
 
 As tradições urbanas podem ser um conceito clássico principal na
 pesquisa de planeamento, levantado com a famosa revisão de Françoise

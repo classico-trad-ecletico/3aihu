@@ -2,8 +2,22 @@
 title: "Saberes e práticas luso-brasileiras à margem do império (1750–1930)"
 subtitle: |
   3.º Congresso Iberoamericano de História Urbana  
-  Mesa temática n.º 74
-date: 'Coordenadores:'
+  Madri, 22--25 de novembro de 2022
+date: Última chamada de resumos para a mesa temática n.º 74
+abstract: |
+  Los investigadores que deseen presentar una comunicación en esta fase
+  deberán enviar su propuesta a los correos facilitados por los
+  coordinadores de mesa incluyendo un título, con la identificación del
+  autor o sus autores, su pertenencia institucional, dirección
+  electrónica y un resumen de máximo 300 palabras en las que se describa
+  el trabajo a ser presentado. Además de la calidad de la ponencia, los
+  postulantes deberán considerar la pertinencia temática de su propuesta
+  en la mesa seleccionada.
+
+  Ulteriores informaciones en:  
+  <https://eventos.ucm.es/68253/section/31785/iii-congreso-de-la-asociacion-iberoamericana-de-historia-urbana.html>
+
+  \vspace{2em}
 bibliography: "_data/bibliografia.yaml"
 csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography-with-ibid.csl"
 suppress-bibliography: true
@@ -23,7 +37,7 @@ institute:
   - unb: Professor Associado, Universidade de Brasília, Faculdade de Arquitetura e Urbanismo.
 ---
 
-# Resumo #
+# Temário #
 
 As tradições urbanas podem ser um conceito clássico principal na
 pesquisa de planeamento, levantado com a famosa revisão de Françoise

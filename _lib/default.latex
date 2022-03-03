@@ -462,7 +462,6 @@ $for(include-before)$
 $include-before$
 
 $endfor$
-\setcounter{page}{2}
 $if(toc)$
 $if(toc-title)$
 \renewcommand*\contentsname{$toc-title$}

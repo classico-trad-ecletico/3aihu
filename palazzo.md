@@ -1,12 +1,14 @@
 ---
-title: "Vernáculo planejado:"
+title: "Vernacular planeado"
 subtitle: "Paradigmas urbanísticos no Brasil"
 author: Pedro P. Palazzo[^1]
 affiliation: "Faculdade de Arquitetura e Urbanismo, Universidade de Brasília"
 author_profile: true
+lang: pt-BR
+csl: _data/apa.csl
 ---
 
-<!--Máximo 5000 palavras-->
+<!--Máximo 4000 palavras-->
 
 # Introdução #
 
@@ -18,7 +20,7 @@ ocasiões tal oposição, desde os planos de vilas de fundação medievais
 até os projetos do "urbanismo conveniente" renascentista e barroco. Nem
 sempre, porém, se trata de uma redução da ideia de um plano erudito às
 restrições de uma realidade construtiva vernácula. No Brasil, desde
-meados de Oitocentos, se fortalece um movimento inverso, onde os atores
+meados de Oitocentos, se fortalece um movimento inverso, onde os agentes
 vernaculares da urbanização acedem a mecanismos de planejamento e
 desenho urbano. 
 
@@ -34,7 +36,7 @@ pequena escala, distantes dos círculos técnicos e administrativos
 convencionalmente associados com a capacidade intelectual e política de
 traçar planos urbanísticos.
 
-O agentes do urbanismo vernáculo abarcavam uma gama de perfis
+Os agentes do urbanismo vernacular abarcavam uma gama de perfis
 profissionais diversos, desde militares com uma formação em desenho e
 engenharia que era amiúde precária [@bueno:2001desenho] até artífices da
 construção com vasta experiência prática. Os códigos e ordenações legais
@@ -73,17 +75,17 @@ processo de formação dos tecidos construídos:
 1. A aldeia--rua medieval de crescimento linear e periférico, com
    quarteirões alongados e moldados pela topografia;
 2. A ocupação em profundidade desse tecido linear, por meio do
-   desdobramento de lotes em duas testadas com a abertura de "ruas de
-   trás";
-3. O quarteirão planeado, de forma quadrangular ou pouco alongada,
+   desdobramento de lotes em duas testadas com a abertura de «ruas de
+   trás»;
+3. O quarteirão planeado, quadrado ou pouco alongado,
    consagrado na época pombalina, com lotes que podem ser largos e pouco
    profundos.
 
-Esses paradigmas emergiram sucessivamente da urbanização medieval na
+Esses paradigmas emergiram sucessivamente da urbanização medieval em
 Europa ocidental, passando pelas transformações e adensamentos
 renascentistas, até culminarem na pretensão setecentista de ocupar
-"racionalmente" o território [@teixeira:2012forma]. A sua aplicação ao
-processo de urbanização luso-brasileiro se deu, porém, por meio de dois
+«racionalmente» o território [@teixeira:2012forma]. A sua aplicação ao
+processo de urbanização luso-brasileiro deu-se, porém, por meio de dois
 movimentos inversos. A aldeia-rua e o seu adensamento em profundidade
 expressava, na sua origem, um grau limitado de planeamento na escala de
 agentes singulares a intervir na pequena escala de uma gleba rural. Em
@@ -96,7 +98,7 @@ estruturante.
 
 O quarteirão pombalino, por sua vez, foi proposto à primeira vista como
 imposição racionalizante do poder central, difundido por determinações
-explícitas de diversas autoridades administrativas assim como por
+explícitas de diversas autoridades administrativas, assim como por
 desenhos de projeto cada vez mais específicos que se multiplicavam a
 partir da segunda metade do século XVIII. No entanto, o caráter quase
 modelar desse paradigma não nos pode dar a ilusão de que ele tenha
@@ -108,6 +110,8 @@ de crescimento não linear [@carita:1994bairro].
 # Parcelamentos lineares periféricos #
 
 <!--Santo Antônio Além do Carmo, Rossio do RJ-->
+
+O crescimento periférico das povoações é 
 
 # Ocupação das ruas de trás #
 
